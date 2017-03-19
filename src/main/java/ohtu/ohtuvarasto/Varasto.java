@@ -1,6 +1,9 @@
 package ohtu.ohtuvarasto;
 
 public class Varasto {
+    
+    // TÄÄ ON TURHA MUUTOS
+    // TOIMI
 
     // --- piilotettu tietorakenteen toteutus: ---
     private double tilavuus;  // paljonko varastoon mahtuu,  > 0

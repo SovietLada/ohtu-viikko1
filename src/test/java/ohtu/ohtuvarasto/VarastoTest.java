@@ -35,7 +35,8 @@ public class VarastoTest {
     
     @Test
     public void kostruktoriLaittaaNegatiivisenTilavuudenOikein() {
-        assertEquals(0, vikaVarasto.getTilavuus(), vertailuTarkkuus);
+        // assertEquals(0, vikaVarasto.getTilavuus(), vertailuTarkkuus);
+        assertEquals(69, vikaVarasto.getTilavuus(), vertailuTarkkuus);
     }
     
     @Test
